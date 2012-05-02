@@ -1,0 +1,20 @@
+{
+  "author": "Mark Stewart <mark@grit-design.com>",
+  "name": "bcn-stringify",
+  "description": "stringify that sorts object keys",
+  "version": "0.0.1",
+  "repository": {
+    "type": "git",
+    "url": "gitolite@git.grit313.com:repo/Grit/NodeModules/bcn-stringify"
+  },
+  "engines": {
+    "node": "~0.6.9"
+  },
+  "main": "lib/bcn-stringify.js",
+  "dependencies": {},
+  "devDependencies": {},
+  "optionalDependencies": {},
+  "scripts": {
+	"test": "node tests/test.js"
+   }
+}
